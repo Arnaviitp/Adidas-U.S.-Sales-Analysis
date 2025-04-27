@@ -25,7 +25,7 @@ The dataset contains Adidas U.S. sales transactions with fields such as:
 - Sales Method (Online, Outlet, In-store)
 - Gender Type
 
-**Source:** [AdidasSalesdata-1.xlsx](https://tinyurl.com/data-crux)
+**Source:** [AdidasSalesdata.xlsx](https://tinyurl.com/data-crux)
 
 ## Project Structure
 
